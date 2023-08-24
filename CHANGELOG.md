@@ -7,6 +7,17 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.0.0](https://github.com/terraform-google-modules/terraform-google-pubsub/compare/v5.0.0...v6.0.0) (2023-08-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove iot ([#143](https://github.com/terraform-google-modules/terraform-google-pubsub/issues/143))
+
+### Bug Fixes
+
+* remove iot ([#143](https://github.com/terraform-google-modules/terraform-google-pubsub/issues/143)) ([dca11ae](https://github.com/terraform-google-modules/terraform-google-pubsub/commit/dca11aed04d76c44be9e7d58e5d4f6f9cee06b8f))
+
 ## [5.0.0](https://github.com/terraform-google-modules/terraform-google-pubsub/compare/v4.0.1...v5.0.0) (2022-12-30)
 
 
